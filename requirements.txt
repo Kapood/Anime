@@ -1,0 +1,15 @@
+# Use this command on macOS to avoid potential issues with protobuf implementation:
+# export PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
+
+
+numpy==1.21.5
+scipy
+scikit-image
+chainer
+opencv-python-headless
+wget
+pandas
+torch
+torchvision
+tqdm
+
