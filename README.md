@@ -102,27 +102,34 @@ Examples:
 
 Fixed noise, change eye and hair colors:
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/fix_noise_4.png" width="500" height="500">
+<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/fix_noise_4.png" alt=" 1" width="500" height="500">
+
 
 Fixed eye, change hair colors:
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/change_hair_color.png" width="800" height="70">
+<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/change_hair_color.png" alt="2" width="500" height="500">
+
 
 Fixed hair, change eye colors:
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/change_eye_color.png" width="800" height="70">
+<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/change_eye_color.png" alt=" 3" width="500" height="500">
+
 
 Interpolation between 2 images:
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_1.png" width="800" height="70">
+<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/interpolation_1.png" alt="4" width="500" height="500">
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_3.png" width="800" height="70">
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_4.png" width="800" height="70">
+<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/interpolation_3.png" alt="5" width="500" height="500">
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/interpolation_5.png" width="800" height="70">
+
+<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/interpolation_4.png" alt="6" width="500" height="500">
+
+
+<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/interpolation_5.png" alt="7" width="800" height="70">
 
 
 Blonde hair, blue eyes:
 
-<img src="https://github.com/0x5eba/Anime-Face-Generator/blob/master/results/my_results/blonde%20hair%20blue%20eyes.png" width="500" height="500">
+<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/blonde%20hair%20blue%20eyes.png" alt="8" width="500" height="500">
+
