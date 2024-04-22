@@ -1,7 +1,8 @@
 # Anime Character Generator
 > Generate anime face using Generative Adversarial Networks
 
-<img src="https://github.com/Anime/results/my_results/anime.gif" width="400" height="400">
+<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/anime.gif" alt="Гифка" width="500" height="500">
+
 
 ## Setup
 
