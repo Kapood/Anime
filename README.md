@@ -107,23 +107,23 @@ Fixed noise, change eye and hair colors:
 
 Fixed eye, change hair colors:
 
-<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/change_hair_color.png" alt="2" width="500" height="500">
+<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/change_hair_color.png" alt="2" width="800" height="70">
 
 
 Fixed hair, change eye colors:
 
-<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/change_eye_color.png" alt=" 3" width="500" height="500">
+<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/change_eye_color.png" alt=" 3" width="800" height="70">
 
 
 Interpolation between 2 images:
 
-<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/interpolation_1.png" alt="4" width="500" height="500">
+<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/interpolation_1.png" alt="4" width="800" height="70">
 
 
-<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/interpolation_3.png" alt="5" width="500" height="500">
+<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/interpolation_3.png" alt="5" width="800" height="70">
 
 
-<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/interpolation_4.png" alt="6" width="500" height="500">
+<img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/interpolation_4.png" alt="6" width="800" height="70">
 
 
 <img src="https://raw.githubusercontent.com/Kapood/Anime/master/results/my_results/interpolation_5.png" alt="7" width="800" height="70">
